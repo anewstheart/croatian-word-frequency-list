@@ -8,8 +8,8 @@ The 2,500 most common words from the combined word frequency lists are used to p
 
 ## Sources
 This word frequency list was compiled from two main corpus. 
-- OpenSubtitles [1]
-- Croatian news websites [2]
+- Croatian news websites [1]
+- OpenSubtitles [2]
 
 This gives a mixture of both written and spoken words. Subtitles are often translations of speech from another language but will have to suffice until a corpus of spoken Croatian is sourced.
 
