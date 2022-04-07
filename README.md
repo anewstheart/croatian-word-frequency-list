@@ -4,7 +4,7 @@
 A list of the most frequently used words and lemmas in the Croatian language. 
 
 ## Purpose
-The 2,500 most common words from the combined word frequency lists are used to produce a deck of Anki SRS cards [16]. The cards are utilized in the Refold learning methodology [17]
+The 2,500 most common words from the combined word frequency lists are used to produce a deck of Anki SRS cards [16]. The cards are utilized in the Refold learning methodology [17].										
 
 ## Sources
 This word frequency list was compiled from two main corpus. 
@@ -40,7 +40,23 @@ Top 2500	NL word translation is assumed to be singular when the declension is in
 NL word translation is assumed to be the first usage from the croatian dictionary definition
 Different parts of speech (noun, verb, adverb, etc...) for the same root word have different images
 Third person verb is assumed to be neuter gender
-	
+
+## Fields
+The Anki cards include the following fields:
+- Croatian Word	
+- English Word	
+- Croatian Lemma	
+- English Lemma	
+- Croatian Lemma Definition	
+- English Lemma Definition	
+- Croatian Sentence Curated	
+- English Sentence Curated	
+- Croatian Sentence Automated 1	
+- English Sentence Automated 1	
+- Croatian Sentence Automated 2	
+- English Sentence Automated 2	
+- Croatian Sentence Automated 3	
+- English Sentence Automated 3	
 	
 ### References	
 	
