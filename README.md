@@ -4,37 +4,41 @@
 A list of the most frequently used words and lemmas in the Croatian language. 
 
 ## Purpose
-The 2,500 most common words from the combined word frequency lists are used to produce a deck of Anki SRS cards [16]. The cards are utilized in the Refold learning methodology [17].										
+The 2,500 most common words from the combined word frequency lists are used to produce a deck of Anki SRS cards [16]. The cards are utilized in the Refold learning methodology [17]. Cards for each word have a lemma, dictionary definitions, example sentences, an image and text to speech. 										
 
 ## Sources
-This word frequency list was compiled from two main corpus. 
+The word frequency list was compiled from two main corpus. 
 - Croatian news websites [1]
 - OpenSubtitles [2]
 
 This gives a mixture of both written and spoken words. Subtitles are often translations of speech from another language but will have to suffice until a corpus of spoken Croatian is sourced.
 
+Dictionary definitions were compiled from the Školski Rječnik Hrvatskoga Jezika [5] and Wiktionary [10].
+
+Curated example sentences were compiled by the author and automated example sentences were compiled from Tr-ex.me [6]
+
 ## Methodology
 
 The word frequncy lists have had these items removed:
-- Non Ijekavian words
+- Non-Ljekavian words
 - Personal names
--	English cognates
--	Abbreviations
--	Units of measurement
--	Interjections
--	Cardinal numbers
--	Ordinal numbers
--	Days
--	Months
--	Currencies 
--	Place names
--	Residencies
--	Colloquialisms
--	Brands
--	Sports teams
--	Sports terminology
--	Organizations
--	Onomatopoeia	
+- English cognates
+- Abbreviations
+- Units of measurement
+- Interjections
+- Cardinal numbers
+- Ordinal numbers
+- Days
+- Months
+- Currencies 
+- Place names
+- Residencies
+- Colloquialisms
+- Brands
+- Sports teams
+- Sports terminology
+- Organizations
+- Onomatopoeia	
 	
 Top 2500	NL word translation is assumed to be singular when the declension is inconclusive.
 NL word translation is assumed to be the first usage from the croatian dictionary definition
