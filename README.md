@@ -6,6 +6,8 @@ A list of the most frequently used words and lemmas in the Croatian language.
 ## Purpose
 The 2,500 most common words from the combined word frequency lists are used to produce decks of Anki SRS cards [16] for words and lemmas. Cards for each word or lemma contain a lemma [12], dictionary definitions, example sentences, an image, text to speech and English translations. The cards are utilized in the Refold learning methodology [17].
 
+## Usage
+
 ## Structure
 Data, spreadsheet calculations and documentation are stored on Github. Binary objects such as images and sound are stored on Ankiweb.									
 
@@ -51,43 +53,43 @@ The Anki cards are compiled in a spreadsheet. The spreadsheet handles storage of
 
 ### Card Fields
 - Croatian Word
- - Inflected word
+  - Inflected word
 - English Word
- - Automated translation created with the =GOOGLETRANSLATE() spreadsheet function and later author curated.
- - Translation of nouns is assumed to be singular when the inflection is inconclusive.
- - Translation of verbs is assumed to be neuter gender when the inflection is inconclusive.
+  - Automated translation created with the =GOOGLETRANSLATE() spreadsheet function and later author curated.
+  - Translation of nouns is assumed to be singular when the inflection is inconclusive.
+  - Translation of verbs is assumed to be neuter gender when the inflection is inconclusive.
 - Croatian Lemma
- - Lemma for the word is looked up using the word to lemma relationship defined by the ENRI corpus.
+  - Lemma for the word is looked up using the word to lemma relationship defined by the ENRI corpus.
 - English Lemma
- - Automated translation created with the =GOOGLETRANSLATE() spreadsheet function and later author curated.
+  - Automated translation created with the =GOOGLETRANSLATE() spreadsheet function and later author curated.
 - Croatian Lemma Definition
- - Definition of the word's lemma from the Pravopis-anki-deck project [3] the data set or manually from alternative sources.
+  - Definition of the word's lemma from the Pravopis-anki-deck project [3] the data set or manually from alternative sources.
 - English Lemma Definition
- - Definition of the word's lemma retrieved with a modified version of the wiktionaryCopy Anki add-on [15].
- - Definition is assumed to be the first usage defined in the dictionary.
+  - Definition of the word's lemma retrieved with a modified version of the wiktionaryCopy Anki add-on [15].
+  - Definition is assumed to be the first usage defined in the dictionary.
 - Croatian Sentence Curated
- - Example sentence selected by the author from various sources.
+  - Example sentence selected by the author from various sources.
 - English Sentence Curated
- - Translation taken from various sources or author created.
+  - Translation taken from various sources or author created.
 - Croatian Sentence Automated 1
- - Example sentence retrieved with an author created Anki add-on.
+  - Example sentence retrieved with an author created Anki add-on.
 - English Sentence Automated 1
- - Example sentence translation retrieved with an author created Anki add-on.
+  - Example sentence translation retrieved with an author created Anki add-on.
 - Croatian Sentence Automated 2
 - English Sentence Automated 2
 - Croatian Sentence Automated 3
 - English Sentence Automated 3
 - Croatian Sentence Curated TTS
- - Speech generated with the AwesomeTTS Anki add-on [19] using the Microsoft Azure Srecko (neural) voice [13] at 0.85 speed.
+  - Speech generated with the AwesomeTTS Anki add-on [19] using the Microsoft Azure Srecko (neural) voice [13] at 0.85 speed.
 - Croatian Sentence Automated 1 TTS
- - Speech generated with the AwesomeTTS Anki add-on [19] using the Microsoft Azure Srecko (neural) voice [13] at 0.85 speed.
+  - Speech generated with the AwesomeTTS Anki add-on [19] using the Microsoft Azure Srecko (neural) voice [13] at 0.85 speed.
 - Croatian Sentence Automated 2 TTS
 - Croatian Sentence Automated 3 TTS
 - Image
- - Author selected image of the Word's lemma found using the Batch Download Pictures from Google Images [20] anki add-on.
- - Different parts of speech (noun, verb, adverb, etc.) from the same root word have different images.
+  - Author selected image of the Word's lemma found using the Batch Download Pictures from Google Images [20] anki add-on.
+  - Different parts of speech (noun, verb, adverb, etc.) from the same root word have different images.
 - Word List Position
- - Combined average word frequency position in the available corpuses.
+  - Combined average word frequency position in the available corpuses.
 
 ### References
 
