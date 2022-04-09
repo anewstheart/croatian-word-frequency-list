@@ -4,7 +4,7 @@
 A list of the most frequently used words and lemmas in the Croatian language.
 
 ## Purpose
-The 2,500 most common words from the combined word frequency lists are used to produce decks of Anki SRS cards [16] for words and lemmas. Cards for each word or lemma contain a lemma [12], dictionary definitions, example sentences, an image, text to speech and English translations. The cards are utilized in the Refold learning methodology [17].
+The 2,500 most frequently used words and lemmas from the combined corpuses are used to produce decks of Anki SRS cards [16]. Cards contain a word and/or a lemma [12], dictionary definitions, example sentences, an image, text to speech and English translations. The cards are utilized in the Refold learning methodology [17].
 
 ## Usage
 
